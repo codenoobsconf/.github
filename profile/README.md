@@ -10,7 +10,7 @@
 
 🟡 1 workshop.
 
-🟢 Más sorteos que en la tómbola de tu pueblo [(#CodeNoóbola).](https://twitter.com/search?q=%23CodeNo%C3%B3bola&src=typed_query&f=live).
+🟢 Más sorteos que en la tómbola de tu pueblo [(#CodeNoóbola)](https://twitter.com/search?q=%23CodeNo%C3%B3bola&src=typed_query&f=live).
 
 Hubo algún que otro pony.
 
@@ -25,3 +25,5 @@ Síguenos, lo mismo volvemos 👀
 🐦 [Twitter](https://twitter.com/CodeNoobs)
 
 💬 [Twitch](https://www.twitch.tv/codenoobsconf)
+
+▶️ [Youtube](https://www.youtube.com/channel/UC0Ai0h62p3JriROg8Eouwyw)
